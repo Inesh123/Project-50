@@ -1,0 +1,10 @@
+.fort{
+    display:flex;
+    justify-content: space-between;
+}
+.nite{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+    text-align:center;
+}
